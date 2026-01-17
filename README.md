@@ -9,6 +9,7 @@ I’m a **Data Science Enthusiast** and **Machine Learning Practitioner** passio
 
 ### 💻 Programming Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![TypeScript]()
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) 
 
 ### 📚 Data Science & ML  
@@ -22,9 +23,8 @@ I’m a **Data Science Enthusiast** and **Machine Learning Practitioner** passio
 ### ⚡Frameworks & Tools  
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) 
+![Node.js]
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) 
 
 ---
 
