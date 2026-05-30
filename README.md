@@ -55,14 +55,6 @@ I treat AI as an infrastructure challenge, not just a data science experiment. M
 ## 📊 GitHub System Analytics  
 
 <p align="center">
-  <!-- Profile Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=abhayk-gupta&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhayk-gupta&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
-</p>
-
-<p align="center">
   <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=abhayk-gupta&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
@@ -76,8 +68,8 @@ I treat AI as an infrastructure challenge, not just a data science experiment. M
 
 ## 📫 Connect with Me  
 
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?logo=microsoftoutlook&logoColor=white&style=for-the-badge)](mailto:YOUR_NEW_OUTLOOK_EMAIL@outlook.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?logo=microsoftoutlook&logoColor=white&style=for-the-badge)](mailto:abhayk.gupta@outlook.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/abhayk-gupta)
 
 ---
 
